@@ -1,6 +1,11 @@
+@media screen {(max-width: 1500px;)
+    
+}
+
 body{
-   width: 100%;
-   height: 100%;
+   max-width: 100%;
+   min-width: 50%;
+   
 }
 .parent{
     justify-content: space-between;
@@ -42,19 +47,21 @@ main{
 }
 
 .sentence{
+    width: 10vw;
     position: absolute;
-    top: 340px;
+    top: 30vh;
     font-size: 40px;
+    left: 1%;
+
 
 }
 
 .picture{
     text-align: right;
-    margin-right: 0;
     position: absolute;
-    top: 60px;
+    top: 10vh;
     right: 1%;
-    width: 60%;
+    width: 50%;
   
   
 }
@@ -68,8 +75,9 @@ img{
 
 .parple{
     background-color: rgb(6, 6, 146);
-    width: 700px;
-    height: 170px;
+    width: 70vw;
+    height: 20vh;
     position: absolute;
-    top: 430px;
+    top: 55vh;
+    left: 1%;
 }
