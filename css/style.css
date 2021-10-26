@@ -51,7 +51,7 @@ main{
     position: absolute;
     top: 30vh;
     height: auto;
-    font-size: 40px;
+    font-size: 50px;
     left: 0;
     
 
@@ -80,7 +80,7 @@ img{
     width: 70vw;
     height: 20vh;
     position: absolute;
-    top: 40vh;
+    top: 0vh;
     left: 0;
     
 }
