@@ -1,6 +1,4 @@
-@media screen {(max-width: 1500px;)
-    
-}
+
 
 body{
    max-width: 100%;
@@ -44,14 +42,18 @@ main{
 .maintag{
     justify-content: space-between;
     position:relative;
+    
+    
+    
 }
 
 .sentence{
-    width: 10vw;
     position: absolute;
     top: 30vh;
+    height: auto;
     font-size: 40px;
-    left: 1%;
+    left: 0;
+    
 
 
 }
@@ -78,6 +80,7 @@ img{
     width: 70vw;
     height: 20vh;
     position: absolute;
-    top: 55vh;
-    left: 1%;
+    top: 40vh;
+    left: 0;
+    
 }
