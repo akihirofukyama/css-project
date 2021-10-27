@@ -16,6 +16,7 @@ a {
   .header-ttl {
     font-size: 24px;
     
+    
   }
   .header-nav-list {
     display: flex;
@@ -41,7 +42,6 @@ a {
     width: 70%;
     height: 20%;
     margin-top: 39%;
-    margin-left: 3%;
     background-color:navy;
     z-index: 100;
 }  
@@ -66,7 +66,6 @@ img{
 .sentence{
     position: absolute;
     margin-top:35%;
-    margin-left: 3%;
     font-size: 48px;
    }
 
