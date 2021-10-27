@@ -41,8 +41,7 @@ a {
     width: 70%;
     height: 20%;
     margin-top: 39%;
-    
-
+    margin-left: 3%;
     background-color:navy;
     z-index: 100;
 }  
@@ -66,9 +65,9 @@ img{
 
 .sentence{
     position: absolute;
-    margin-top:36%;
-    font-size: 30px;
-    font-weight: bold;
+    margin-top:35%;
+    margin-left: 3%;
+    font-size: 48px;
    }
 
  
