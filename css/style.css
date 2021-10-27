@@ -37,7 +37,7 @@ a {
     position: absolute;
     height: 20%;
     width: 70%;
-    top: 50%;
+    top: 40%;
 
     background-color:navy;
     z-index: 100;
@@ -56,13 +56,13 @@ a {
  
 
 img{
-      width: 95%;
+      width: 100%;
       }
 
 
 .sentence{
     position: absolute;
-    top:46%;
+    top:36%;
     font-size: 30px;
     font-weight: bold;
    }
